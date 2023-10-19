@@ -1,4 +1,4 @@
-# Practical DevOps - The Lab
+# Practical DevOps - The Lab 19/10
 I've created this DevSecOps lab to explain the following terms through separate blogposts
 
 1. [Infrastructure As Code using Vagrant Ansible & Docker](https://www.rohitsalecha.com/post/practical_devops_infrastructure_as_code_vagrant_ansible_docker/)
